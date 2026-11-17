@@ -2,160 +2,160 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>FRCS Orth: Hand</title><link>https://frcs-revision.vercel.app/</link><language>en-gb</language>
 <atom:link href="https://kdkdavoudi-tech.github.io/frcs-audio/hand.xml" rel="self" type="application/rss+xml"/>
-<description>Private revision audio (NotebookLM overviews) for FRCS Orth: hand and wrist.</description>
+<description>Private FRCS Orth revision audio: hand and wrist. Season 1 Overview (Millers chapters), 2 Wrist and carpus, 3 Fingers and thumb, 4 Tendons, nerves and other.</description>
 <itunes:author>Kav Davoudi</itunes:author><itunes:image href="https://kdkdavoudi-tech.github.io/frcs-audio/hand-cover.jpg"/><itunes:category text="Education"/><itunes:explicit>false</itunes:explicit>
 <itunes:type>serial</itunes:type><itunes:block>Yes</itunes:block>
-<item><title>Elbow (Millers)</title><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-01-elbow-millers.mp3" length="8890741" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-01</guid><pubDate>Tue, 01 Sep 2026 07:00:00 +0000</pubDate><itunes:duration>0:29:38</itunes:duration></item>
-<item><title>Congenital Hand Differences (Millers)</title><itunes:episode>2</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-02-congenital-hand-differences-millers.mp3" length="14761892" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-02</guid><pubDate>Tue, 01 Sep 2026 08:00:00 +0000</pubDate><itunes:duration>0:49:12</itunes:duration></item>
-<item><title>Injection Injury (Millers)</title><itunes:episode>3</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-03-injection-injury-millers.mp3" length="12067623" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-03</guid><pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>0:40:13</itunes:duration></item>
-<item><title>Hand Infections (Millers)</title><itunes:episode>4</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-04-hand-infections-millers.mp3" length="14928815" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-04</guid><pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate><itunes:duration>0:49:46</itunes:duration></item>
-<item><title>Hand Tumours (Millers)</title><itunes:episode>5</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-05-hand-tumours-millers.mp3" length="7264357" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-05</guid><pubDate>Tue, 01 Sep 2026 11:00:00 +0000</pubDate><itunes:duration>0:24:13</itunes:duration></item>
-<item><title>Dupuytren Disease (Millers)</title><itunes:episode>6</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-06-dupuytren-disease-millers.mp3" length="13168292" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-06</guid><pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate><itunes:duration>0:43:54</itunes:duration></item>
-<item><title>Arthritis (Millers)</title><itunes:episode>7</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-07-arthritis-millers.mp3" length="18180145" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-07</guid><pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate><itunes:duration>1:00:36</itunes:duration></item>
-<item><title>Idiopathic Osteonecrosis of the Carpus (Millers)</title><itunes:episode>8</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-08-idiopathic-osteonecrosis-of-the-carpus-millers.mp3" length="10096292" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-08</guid><pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate><itunes:duration>0:33:39</itunes:duration></item>
-<item><title>Nerve Injuries and Tendon Transfers (Millers)</title><itunes:episode>9</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-09-nerve-injuries-and-tendon-transfers-millers.mp3" length="17941386" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-09</guid><pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate><itunes:duration>0:59:48</itunes:duration></item>
-<item><title>Compression Neuropathy (Millers)</title><itunes:episode>10</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-10-compression-neuropathy-millers.mp3" length="15865566" type="audio/mpeg"/>
+<item><title>Overview · Anatomy</title><itunes:season>1</itunes:season><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-19-anatomy-millers.mp3" length="14035557" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-19</guid><pubDate>Tue, 01 Sep 2026 07:00:00 +0000</pubDate><itunes:duration>0:46:47</itunes:duration></item>
+<item><title>Overview · Distal Radius Fractures</title><itunes:season>1</itunes:season><itunes:episode>2</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-18-distal-radius-fractures-millers.mp3" length="8335378" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-18</guid><pubDate>Tue, 01 Sep 2026 08:00:00 +0000</pubDate><itunes:duration>0:27:47</itunes:duration></item>
+<item><title>Overview · Metacarpal and Phalangeal Injuries</title><itunes:season>1</itunes:season><itunes:episode>3</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-17-metacarpal-and-phalangeal-injuries-millers.mp3" length="20764700" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-17</guid><pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>1:09:13</itunes:duration></item>
+<item><title>Overview · Carpal Fractures and Instability</title><itunes:season>1</itunes:season><itunes:episode>4</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-16-carpal-fractures-and-instability-millers.mp3" length="18491002" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-16</guid><pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate><itunes:duration>1:01:38</itunes:duration></item>
+<item><title>Overview · Tendon Injuries and Overuse Syndromes</title><itunes:season>1</itunes:season><itunes:episode>5</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-15-tendon-injuries-and-overuse-syndromes-millers.mp3" length="21509974" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-15</guid><pubDate>Tue, 01 Sep 2026 11:00:00 +0000</pubDate><itunes:duration>1:11:42</itunes:duration></item>
+<item><title>Overview · Distal Radioulnar Joint, TFCC, and Wrist Arthroscopy</title><itunes:season>1</itunes:season><itunes:episode>6</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-14-distal-radioulnar-joint-tfcc-and-wrist-arthroscopy-millers.mp3" length="13302170" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-14</guid><pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate><itunes:duration>0:44:20</itunes:duration></item>
+<item><title>Overview · Nail and Fingertip Injuries</title><itunes:season>1</itunes:season><itunes:episode>7</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-13-nail-and-fingertip-injuries-millers.mp3" length="4747721" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-13</guid><pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate><itunes:duration>0:15:49</itunes:duration></item>
+<item><title>Overview · Soft Tissue Coverage and Microsurgery</title><itunes:season>1</itunes:season><itunes:episode>8</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-12-soft-tissue-coverage-and-microsurgery-millers.mp3" length="15502594" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-12</guid><pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate><itunes:duration>0:51:40</itunes:duration></item>
+<item><title>Overview · Vascular Disorders</title><itunes:season>1</itunes:season><itunes:episode>9</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-11-vascular-disorders-millers.mp3" length="18588309" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-11</guid><pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate><itunes:duration>1:01:58</itunes:duration></item>
+<item><title>Overview · Compression Neuropathy</title><itunes:season>1</itunes:season><itunes:episode>10</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-10-compression-neuropathy-millers.mp3" length="15865566" type="audio/mpeg"/>
 <guid isPermaLink="false">frcs-hand-10</guid><pubDate>Tue, 01 Sep 2026 16:00:00 +0000</pubDate><itunes:duration>0:52:53</itunes:duration></item>
-<item><title>Vascular Disorders (Millers)</title><itunes:episode>11</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-11-vascular-disorders-millers.mp3" length="18588309" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-11</guid><pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate><itunes:duration>1:01:58</itunes:duration></item>
-<item><title>Soft Tissue Coverage and Microsurgery (Millers)</title><itunes:episode>12</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-12-soft-tissue-coverage-and-microsurgery-millers.mp3" length="15502594" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-12</guid><pubDate>Tue, 01 Sep 2026 18:00:00 +0000</pubDate><itunes:duration>0:51:40</itunes:duration></item>
-<item><title>Nail and Fingertip Injuries (Millers)</title><itunes:episode>13</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-13-nail-and-fingertip-injuries-millers.mp3" length="4747721" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-13</guid><pubDate>Tue, 01 Sep 2026 19:00:00 +0000</pubDate><itunes:duration>0:15:49</itunes:duration></item>
-<item><title>Distal Radioulnar Joint, TFCC, and Wrist Arthroscopy (Millers)</title><itunes:episode>14</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-14-distal-radioulnar-joint-tfcc-and-wrist-arthroscopy-millers.mp3" length="13302170" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-14</guid><pubDate>Tue, 01 Sep 2026 20:00:00 +0000</pubDate><itunes:duration>0:44:20</itunes:duration></item>
-<item><title>Tendon Injuries and Overuse Syndromes (Millers)</title><itunes:episode>15</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-15-tendon-injuries-and-overuse-syndromes-millers.mp3" length="21509974" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-15</guid><pubDate>Tue, 01 Sep 2026 21:00:00 +0000</pubDate><itunes:duration>1:11:42</itunes:duration></item>
-<item><title>Carpal Fractures and Instability (Millers)</title><itunes:episode>16</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-16-carpal-fractures-and-instability-millers.mp3" length="18491002" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-16</guid><pubDate>Tue, 01 Sep 2026 22:00:00 +0000</pubDate><itunes:duration>1:01:38</itunes:duration></item>
-<item><title>Metacarpal and Phalangeal Injuries (Millers)</title><itunes:episode>17</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-17-metacarpal-and-phalangeal-injuries-millers.mp3" length="20764700" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-17</guid><pubDate>Tue, 01 Sep 2026 23:00:00 +0000</pubDate><itunes:duration>1:09:13</itunes:duration></item>
-<item><title>Distal Radius Fractures (Millers)</title><itunes:episode>18</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-18-distal-radius-fractures-millers.mp3" length="8335378" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-18</guid><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><itunes:duration>0:27:47</itunes:duration></item>
-<item><title>Anatomy (Millers)</title><itunes:episode>19</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-19-anatomy-millers.mp3" length="14035557" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-19</guid><pubDate>Wed, 02 Sep 2026 01:00:00 +0000</pubDate><itunes:duration>0:46:47</itunes:duration></item>
-<item><title>Thumb UCL Injuries and Stener Lesions</title><itunes:episode>20</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-20-thumb-ucl-injuries-and-stener-lesions.mp3" length="8588243" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-20</guid><pubDate>Wed, 02 Sep 2026 02:00:00 +0000</pubDate><itunes:duration>0:28:38</itunes:duration></item>
-<item><title>SLAC and SNAC Wrist Surgical Algorithms</title><itunes:episode>21</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-21-slac-and-snac-wrist-surgical-algorithms.mp3" length="8984782" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-21</guid><pubDate>Wed, 02 Sep 2026 03:00:00 +0000</pubDate><itunes:duration>0:29:57</itunes:duration></item>
-<item><title>Scaphoid Nonunion Surgery and Vascular Grafts</title><itunes:episode>22</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-22-scaphoid-nonunion-surgery-and-vascular-grafts.mp3" length="10899427" type="audio/mpeg"/>
+<item><title>Overview · Nerve Injuries and Tendon Transfers</title><itunes:season>1</itunes:season><itunes:episode>11</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-09-nerve-injuries-and-tendon-transfers-millers.mp3" length="17941386" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-09</guid><pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate><itunes:duration>0:59:48</itunes:duration></item>
+<item><title>Overview · Arthritis</title><itunes:season>1</itunes:season><itunes:episode>12</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-07-arthritis-millers.mp3" length="18180145" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-07</guid><pubDate>Tue, 01 Sep 2026 18:00:00 +0000</pubDate><itunes:duration>1:00:36</itunes:duration></item>
+<item><title>Overview · Idiopathic Osteonecrosis of the Carpus</title><itunes:season>1</itunes:season><itunes:episode>13</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-08-idiopathic-osteonecrosis-of-the-carpus-millers.mp3" length="10096292" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-08</guid><pubDate>Tue, 01 Sep 2026 19:00:00 +0000</pubDate><itunes:duration>0:33:39</itunes:duration></item>
+<item><title>Overview · Dupuytren Disease</title><itunes:season>1</itunes:season><itunes:episode>14</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-06-dupuytren-disease-millers.mp3" length="13168292" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-06</guid><pubDate>Tue, 01 Sep 2026 20:00:00 +0000</pubDate><itunes:duration>0:43:54</itunes:duration></item>
+<item><title>Overview · Hand Tumours</title><itunes:season>1</itunes:season><itunes:episode>15</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-05-hand-tumours-millers.mp3" length="7264357" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-05</guid><pubDate>Tue, 01 Sep 2026 21:00:00 +0000</pubDate><itunes:duration>0:24:13</itunes:duration></item>
+<item><title>Overview · Hand Infections</title><itunes:season>1</itunes:season><itunes:episode>16</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-04-hand-infections-millers.mp3" length="14928815" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-04</guid><pubDate>Tue, 01 Sep 2026 22:00:00 +0000</pubDate><itunes:duration>0:49:46</itunes:duration></item>
+<item><title>Overview · Injection Injury</title><itunes:season>1</itunes:season><itunes:episode>17</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-03-injection-injury-millers.mp3" length="12067623" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-03</guid><pubDate>Tue, 01 Sep 2026 23:00:00 +0000</pubDate><itunes:duration>0:40:13</itunes:duration></item>
+<item><title>Overview · Congenital Hand Differences</title><itunes:season>1</itunes:season><itunes:episode>18</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-02-congenital-hand-differences-millers.mp3" length="14761892" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-02</guid><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><itunes:duration>0:49:12</itunes:duration></item>
+<item><title>Overview · Elbow</title><itunes:season>1</itunes:season><itunes:episode>19</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Overview (Millers). NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-01-elbow-millers.mp3" length="8890741" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-01</guid><pubDate>Wed, 02 Sep 2026 01:00:00 +0000</pubDate><itunes:duration>0:29:38</itunes:duration></item>
+<item><title>Wrist · Scaphoid Fracture Vascularity and Surgical Approaches</title><itunes:season>2</itunes:season><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Wrist &amp; carpus. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-30-scaphoid-fracture-vascularity-and-surgical-approaches.mp3" length="9553598" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-30</guid><pubDate>Wed, 02 Sep 2026 02:00:00 +0000</pubDate><itunes:duration>0:31:51</itunes:duration></item>
+<item><title>Wrist · The Wrist's Overlooked Pisiform Fracture</title><itunes:season>2</itunes:season><itunes:episode>2</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Wrist &amp; carpus. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-28-the-wrists-overlooked-pisiform-fracture.mp3" length="9517419" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-28</guid><pubDate>Wed, 02 Sep 2026 03:00:00 +0000</pubDate><itunes:duration>0:31:43</itunes:duration></item>
+<item><title>Wrist · Scaphoid Nonunion Surgery and Vascular Grafts</title><itunes:season>2</itunes:season><itunes:episode>3</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Wrist &amp; carpus. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-22-scaphoid-nonunion-surgery-and-vascular-grafts.mp3" length="10899427" type="audio/mpeg"/>
 <guid isPermaLink="false">frcs-hand-22</guid><pubDate>Wed, 02 Sep 2026 04:00:00 +0000</pubDate><itunes:duration>0:36:20</itunes:duration></item>
-<item><title>Swan Neck Deformity Biomechanics and Reconstruction</title><itunes:episode>23</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-23-swan-neck-deformity-biomechanics-and-reconstruction.mp3" length="8556113" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-23</guid><pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate><itunes:duration>0:28:31</itunes:duration></item>
-<item><title>SLAC Wrist Classification and Surgical Management</title><itunes:episode>24</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-24-slac-wrist-classification-and-surgical-management.mp3" length="9477190" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-24</guid><pubDate>Wed, 02 Sep 2026 06:00:00 +0000</pubDate><itunes:duration>0:31:35</itunes:duration></item>
-<item><title>SNAC Wrist Mechanics and Surgical Salvage</title><itunes:episode>25</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-25-snac-wrist-mechanics-and-surgical-salvage.mp3" length="9457860" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-25</guid><pubDate>Wed, 02 Sep 2026 07:00:00 +0000</pubDate><itunes:duration>0:31:32</itunes:duration></item>
-<item><title>Seymour Fractures Are Disguised Open Injuries</title><itunes:episode>26</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-26-seymour-fractures-are-disguised-open-injuries.mp3" length="8484145" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-26</guid><pubDate>Wed, 02 Sep 2026 08:00:00 +0000</pubDate><itunes:duration>0:28:17</itunes:duration></item>
-<item><title>Diagnosing and Treating Pyogenic Flexor Tenosynovitis</title><itunes:episode>27</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-27-diagnosing-and-treating-pyogenic-flexor-tenosynovitis.mp3" length="10790757" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-27</guid><pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>0:35:58</itunes:duration></item>
-<item><title>The Wrist's Overlooked Pisiform Fracture</title><itunes:episode>28</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-28-the-wrists-overlooked-pisiform-fracture.mp3" length="9517419" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-28</guid><pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate><itunes:duration>0:31:43</itunes:duration></item>
-<item><title>Scapholunate Ligament Tears and DISI Deformity</title><itunes:episode>29</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-29-scapholunate-ligament-tears-and-disi-deformity.mp3" length="9298382" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-29</guid><pubDate>Wed, 02 Sep 2026 11:00:00 +0000</pubDate><itunes:duration>0:31:00</itunes:duration></item>
-<item><title>Scaphoid Fracture Vascularity and Surgical Approaches</title><itunes:episode>30</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-30-scaphoid-fracture-vascularity-and-surgical-approaches.mp3" length="9553598" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-30</guid><pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate><itunes:duration>0:31:51</itunes:duration></item>
-<item><title>Preventing and Treating the Quadriga Effect</title><itunes:episode>31</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-31-preventing-and-treating-the-quadriga-effect.mp3" length="8792521" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-31</guid><pubDate>Wed, 02 Sep 2026 13:00:00 +0000</pubDate><itunes:duration>0:29:18</itunes:duration></item>
-<item><title>Radiocarpal Fracture Dislocations and the Dumontier Paradox</title><itunes:episode>32</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-32-radiocarpal-fracture-dislocations-and-the-dumontier-paradox.mp3" length="6326300" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-32</guid><pubDate>Wed, 02 Sep 2026 14:00:00 +0000</pubDate><itunes:duration>0:21:05</itunes:duration></item>
-<item><title>The Thumb CMC Dislocation Exam Trap</title><itunes:episode>33</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-33-the-thumb-cmc-dislocation-exam-trap.mp3" length="7592455" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-33</guid><pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate><itunes:duration>0:25:18</itunes:duration></item>
-<item><title>Sagittal Band Rupture and Boxer's Knuckle</title><itunes:episode>34</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-34-sagittal-band-rupture-and-boxers-knuckle.mp3" length="9003721" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-34</guid><pubDate>Wed, 02 Sep 2026 16:00:00 +0000</pubDate><itunes:duration>0:30:01</itunes:duration></item>
-<item><title>Snapping ECU Diagnosis and Subsheath Repair</title><itunes:episode>35</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-35-snapping-ecu-diagnosis-and-subsheath-repair.mp3" length="4202415" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-35</guid><pubDate>Wed, 02 Sep 2026 17:00:00 +0000</pubDate><itunes:duration>0:14:00</itunes:duration></item>
-<item><title>Avoiding Surgical Disasters in Trigger Finger</title><itunes:episode>36</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-36-avoiding-surgical-disasters-in-trigger-finger.mp3" length="4585500" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-36</guid><pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate><itunes:duration>0:15:17</itunes:duration></item>
-<item><title>Upper Extremity Nerve Injury and Reconstruction</title><itunes:episode>37</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-37-upper-extremity-nerve-injury-and-reconstruction.mp3" length="10016880" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-37</guid><pubDate>Wed, 02 Sep 2026 19:00:00 +0000</pubDate><itunes:duration>0:33:23</itunes:duration></item>
-<item><title>Physics and Pitfalls of Phalanx Fractures</title><itunes:episode>38</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-38-physics-and-pitfalls-of-phalanx-fractures.mp3" length="9573582" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-38</guid><pubDate>Wed, 02 Sep 2026 20:00:00 +0000</pubDate><itunes:duration>0:31:55</itunes:duration></item>
-<item><title>MCP Joint Arthritis Diagnosis and Surgical Management</title><itunes:episode>39</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-39-mcp-joint-arthritis-diagnosis-and-surgical-management.mp3" length="8905631" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-39</guid><pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate><itunes:duration>0:29:41</itunes:duration></item>
-<item><title>Lumbrical Plus Mechanics and Surgical Traps</title><itunes:episode>40</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-40-lumbrical-plus-mechanics-and-surgical-traps.mp3" length="8179557" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-40</guid><pubDate>Wed, 02 Sep 2026 22:00:00 +0000</pubDate><itunes:duration>0:27:16</itunes:duration></item>
-<item><title>Managing PIP and DIP Dislocations</title><itunes:episode>41</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-41-managing-pip-and-dip-dislocations.mp3" length="8444178" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-41</guid><pubDate>Wed, 02 Sep 2026 23:00:00 +0000</pubDate><itunes:duration>0:28:09</itunes:duration></item>
-<item><title>The Silent Saboteur PIN Compression Syndrome</title><itunes:episode>42</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-42-the-silent-saboteur-pin-compression-syndrome.mp3" length="8218611" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-42</guid><pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate><itunes:duration>0:27:24</itunes:duration></item>
-<item><title>Metacarpal Fractures and Pillars of Stability</title><itunes:episode>43</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-43-metacarpal-fractures-and-pillars-of-stability.mp3" length="8624031" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-43</guid><pubDate>Thu, 03 Sep 2026 01:00:00 +0000</pubDate><itunes:duration>0:28:45</itunes:duration></item>
-<item><title>Jersey Finger Diagnosis and Surgical Management</title><itunes:episode>44</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-44-jersey-finger-diagnosis-and-surgical-management.mp3" length="9035982" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-44</guid><pubDate>Thu, 03 Sep 2026 02:00:00 +0000</pubDate><itunes:duration>0:30:07</itunes:duration></item>
-<item><title>Intrinsic Plus Hand Diagnosis and Surgery</title><itunes:episode>45</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-45-intrinsic-plus-hand-diagnosis-and-surgery.mp3" length="9882611" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-45</guid><pubDate>Thu, 03 Sep 2026 03:00:00 +0000</pubDate><itunes:duration>0:32:56</itunes:duration></item>
-<item><title>Intersection Syndrome and the Forearm Traffic Jam</title><itunes:episode>46</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-46-intersection-syndrome-and-the-forearm-traffic-jam.mp3" length="9241957" type="audio/mpeg"/>
+<item><title>Wrist · Scapholunate Ligament Tears and DISI Deformity</title><itunes:season>2</itunes:season><itunes:episode>4</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Wrist &amp; carpus. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-29-scapholunate-ligament-tears-and-disi-deformity.mp3" length="9298382" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-29</guid><pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate><itunes:duration>0:31:00</itunes:duration></item>
+<item><title>Wrist · Lunotriquetral Ligament Injury and VISI</title><itunes:season>2</itunes:season><itunes:episode>5</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Wrist &amp; carpus. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-51-lunotriquetral-ligament-injury-and-visi.mp3" length="9067068" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-51</guid><pubDate>Wed, 02 Sep 2026 06:00:00 +0000</pubDate><itunes:duration>0:30:13</itunes:duration></item>
+<item><title>Wrist · Radiocarpal Fracture Dislocations and the Dumontier Paradox</title><itunes:season>2</itunes:season><itunes:episode>6</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Wrist &amp; carpus. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-32-radiocarpal-fracture-dislocations-and-the-dumontier-paradox.mp3" length="6326300" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-32</guid><pubDate>Wed, 02 Sep 2026 07:00:00 +0000</pubDate><itunes:duration>0:21:05</itunes:duration></item>
+<item><title>Wrist · Staging and Treating Kienbock's Lunate Collapse</title><itunes:season>2</itunes:season><itunes:episode>7</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Wrist &amp; carpus. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-47-staging-and-treating-kienbocks-lunate-collapse.mp3" length="8228406" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-47</guid><pubDate>Wed, 02 Sep 2026 08:00:00 +0000</pubDate><itunes:duration>0:27:26</itunes:duration></item>
+<item><title>Wrist · SLAC Wrist Classification and Surgical Management</title><itunes:season>2</itunes:season><itunes:episode>8</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Wrist &amp; carpus. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-24-slac-wrist-classification-and-surgical-management.mp3" length="9477190" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-24</guid><pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>0:31:35</itunes:duration></item>
+<item><title>Wrist · SNAC Wrist Mechanics and Surgical Salvage</title><itunes:season>2</itunes:season><itunes:episode>9</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Wrist &amp; carpus. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-25-snac-wrist-mechanics-and-surgical-salvage.mp3" length="9457860" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-25</guid><pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate><itunes:duration>0:31:32</itunes:duration></item>
+<item><title>Wrist · SLAC and SNAC Wrist Surgical Algorithms</title><itunes:season>2</itunes:season><itunes:episode>10</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Wrist &amp; carpus. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-21-slac-and-snac-wrist-surgical-algorithms.mp3" length="8984782" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-21</guid><pubDate>Wed, 02 Sep 2026 11:00:00 +0000</pubDate><itunes:duration>0:29:57</itunes:duration></item>
+<item><title>Fingers · Metacarpal Fractures and Pillars of Stability</title><itunes:season>3</itunes:season><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Fingers &amp; thumb. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-43-metacarpal-fractures-and-pillars-of-stability.mp3" length="8624031" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-43</guid><pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate><itunes:duration>0:28:45</itunes:duration></item>
+<item><title>Fingers · Physics and Pitfalls of Phalanx Fractures</title><itunes:season>3</itunes:season><itunes:episode>2</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Fingers &amp; thumb. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-38-physics-and-pitfalls-of-phalanx-fractures.mp3" length="9573582" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-38</guid><pubDate>Wed, 02 Sep 2026 13:00:00 +0000</pubDate><itunes:duration>0:31:55</itunes:duration></item>
+<item><title>Fingers · Seymour Fractures Are Disguised Open Injuries</title><itunes:season>3</itunes:season><itunes:episode>3</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Fingers &amp; thumb. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-26-seymour-fractures-are-disguised-open-injuries.mp3" length="8484145" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-26</guid><pubDate>Wed, 02 Sep 2026 14:00:00 +0000</pubDate><itunes:duration>0:28:17</itunes:duration></item>
+<item><title>Fingers · Managing PIP and DIP Dislocations</title><itunes:season>3</itunes:season><itunes:episode>4</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Fingers &amp; thumb. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-41-managing-pip-and-dip-dislocations.mp3" length="8444178" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-41</guid><pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate><itunes:duration>0:28:09</itunes:duration></item>
+<item><title>Fingers · Why Traction Tightens the MCP Noose</title><itunes:season>3</itunes:season><itunes:episode>5</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Fingers &amp; thumb. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-50-why-traction-tightens-the-mcp-noose.mp3" length="7504815" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-50</guid><pubDate>Wed, 02 Sep 2026 16:00:00 +0000</pubDate><itunes:duration>0:25:01</itunes:duration></item>
+<item><title>Fingers · Thumb UCL Injuries and Stener Lesions</title><itunes:season>3</itunes:season><itunes:episode>6</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Fingers &amp; thumb. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-20-thumb-ucl-injuries-and-stener-lesions.mp3" length="8588243" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-20</guid><pubDate>Wed, 02 Sep 2026 17:00:00 +0000</pubDate><itunes:duration>0:28:38</itunes:duration></item>
+<item><title>Fingers · The Thumb CMC Dislocation Exam Trap</title><itunes:season>3</itunes:season><itunes:episode>7</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Fingers &amp; thumb. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-33-the-thumb-cmc-dislocation-exam-trap.mp3" length="7592455" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-33</guid><pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate><itunes:duration>0:25:18</itunes:duration></item>
+<item><title>Fingers · Mallet Finger Treatment and Biomechanical Pitfalls</title><itunes:season>3</itunes:season><itunes:episode>8</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Fingers &amp; thumb. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-48-mallet-finger-treatment-and-biomechanical-pitfalls.mp3" length="8164276" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-48</guid><pubDate>Wed, 02 Sep 2026 19:00:00 +0000</pubDate><itunes:duration>0:27:13</itunes:duration></item>
+<item><title>Fingers · Sagittal Band Rupture and Boxer's Knuckle</title><itunes:season>3</itunes:season><itunes:episode>9</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Fingers &amp; thumb. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-34-sagittal-band-rupture-and-boxers-knuckle.mp3" length="9003721" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-34</guid><pubDate>Wed, 02 Sep 2026 20:00:00 +0000</pubDate><itunes:duration>0:30:01</itunes:duration></item>
+<item><title>Fingers · Swan Neck Deformity Biomechanics and Reconstruction</title><itunes:season>3</itunes:season><itunes:episode>10</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Fingers &amp; thumb. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-23-swan-neck-deformity-biomechanics-and-reconstruction.mp3" length="8556113" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-23</guid><pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate><itunes:duration>0:28:31</itunes:duration></item>
+<item><title>Fingers · MCP Joint Arthritis Diagnosis and Surgical Management</title><itunes:season>3</itunes:season><itunes:episode>11</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Fingers &amp; thumb. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-39-mcp-joint-arthritis-diagnosis-and-surgical-management.mp3" length="8905631" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-39</guid><pubDate>Wed, 02 Sep 2026 22:00:00 +0000</pubDate><itunes:duration>0:29:41</itunes:duration></item>
+<item><title>Tendon · Jersey Finger Diagnosis and Surgical Management</title><itunes:season>4</itunes:season><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 4 – Tendons, nerves &amp; other. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-44-jersey-finger-diagnosis-and-surgical-management.mp3" length="9035982" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-44</guid><pubDate>Wed, 02 Sep 2026 23:00:00 +0000</pubDate><itunes:duration>0:30:07</itunes:duration></item>
+<item><title>Tendon · Preventing and Treating the Quadriga Effect</title><itunes:season>4</itunes:season><itunes:episode>2</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 4 – Tendons, nerves &amp; other. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-31-preventing-and-treating-the-quadriga-effect.mp3" length="8792521" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-31</guid><pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate><itunes:duration>0:29:18</itunes:duration></item>
+<item><title>Tendon · Lumbrical Plus Mechanics and Surgical Traps</title><itunes:season>4</itunes:season><itunes:episode>3</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 4 – Tendons, nerves &amp; other. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-40-lumbrical-plus-mechanics-and-surgical-traps.mp3" length="8179557" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-40</guid><pubDate>Thu, 03 Sep 2026 01:00:00 +0000</pubDate><itunes:duration>0:27:16</itunes:duration></item>
+<item><title>Tendon · Intrinsic Plus Hand Diagnosis and Surgery</title><itunes:season>4</itunes:season><itunes:episode>4</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 4 – Tendons, nerves &amp; other. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-45-intrinsic-plus-hand-diagnosis-and-surgery.mp3" length="9882611" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-45</guid><pubDate>Thu, 03 Sep 2026 02:00:00 +0000</pubDate><itunes:duration>0:32:56</itunes:duration></item>
+<item><title>Tendon · Avoiding Surgical Disasters in Trigger Finger</title><itunes:season>4</itunes:season><itunes:episode>5</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 4 – Tendons, nerves &amp; other. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-36-avoiding-surgical-disasters-in-trigger-finger.mp3" length="4585500" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-36</guid><pubDate>Thu, 03 Sep 2026 03:00:00 +0000</pubDate><itunes:duration>0:15:17</itunes:duration></item>
+<item><title>Tendon · Intersection Syndrome and the Forearm Traffic Jam</title><itunes:season>4</itunes:season><itunes:episode>6</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 4 – Tendons, nerves &amp; other. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-46-intersection-syndrome-and-the-forearm-traffic-jam.mp3" length="9241957" type="audio/mpeg"/>
 <guid isPermaLink="false">frcs-hand-46</guid><pubDate>Thu, 03 Sep 2026 04:00:00 +0000</pubDate><itunes:duration>0:30:48</itunes:duration></item>
-<item><title>Staging and Treating Kienbock's Lunate Collapse</title><itunes:episode>47</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-47-staging-and-treating-kienbocks-lunate-collapse.mp3" length="8228406" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-47</guid><pubDate>Thu, 03 Sep 2026 05:00:00 +0000</pubDate><itunes:duration>0:27:26</itunes:duration></item>
-<item><title>Mallet Finger Treatment and Biomechanical Pitfalls</title><itunes:episode>48</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-48-mallet-finger-treatment-and-biomechanical-pitfalls.mp3" length="8164276" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-48</guid><pubDate>Thu, 03 Sep 2026 06:00:00 +0000</pubDate><itunes:duration>0:27:13</itunes:duration></item>
-<item><title>Claw Hand Biomechanics and Surgical Management</title><itunes:episode>49</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-49-claw-hand-biomechanics-and-surgical-management.mp3" length="8663215" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-49</guid><pubDate>Thu, 03 Sep 2026 07:00:00 +0000</pubDate><itunes:duration>0:28:53</itunes:duration></item>
-<item><title>Why Traction Tightens the MCP Noose</title><itunes:episode>50</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-50-why-traction-tightens-the-mcp-noose.mp3" length="7504815" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-50</guid><pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate><itunes:duration>0:25:01</itunes:duration></item>
-<item><title>Lunotriquetral Ligament Injury and VISI</title><itunes:episode>51</itunes:episode><itunes:episodeType>full</itunes:episodeType>
-<description>Hand &amp; wrist · NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-51-lunotriquetral-ligament-injury-and-visi.mp3" length="9067068" type="audio/mpeg"/>
-<guid isPermaLink="false">frcs-hand-51</guid><pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>0:30:13</itunes:duration></item>
+<item><title>Tendon · Snapping ECU Diagnosis and Subsheath Repair</title><itunes:season>4</itunes:season><itunes:episode>7</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 4 – Tendons, nerves &amp; other. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-35-snapping-ecu-diagnosis-and-subsheath-repair.mp3" length="4202415" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-35</guid><pubDate>Thu, 03 Sep 2026 05:00:00 +0000</pubDate><itunes:duration>0:14:00</itunes:duration></item>
+<item><title>Nerve · The Silent Saboteur PIN Compression Syndrome</title><itunes:season>4</itunes:season><itunes:episode>8</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 4 – Tendons, nerves &amp; other. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-42-the-silent-saboteur-pin-compression-syndrome.mp3" length="8218611" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-42</guid><pubDate>Thu, 03 Sep 2026 06:00:00 +0000</pubDate><itunes:duration>0:27:24</itunes:duration></item>
+<item><title>Nerve · Upper Extremity Nerve Injury and Reconstruction</title><itunes:season>4</itunes:season><itunes:episode>9</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 4 – Tendons, nerves &amp; other. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-37-upper-extremity-nerve-injury-and-reconstruction.mp3" length="10016880" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-37</guid><pubDate>Thu, 03 Sep 2026 07:00:00 +0000</pubDate><itunes:duration>0:33:23</itunes:duration></item>
+<item><title>Nerve · Claw Hand Biomechanics and Surgical Management</title><itunes:season>4</itunes:season><itunes:episode>10</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 4 – Tendons, nerves &amp; other. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-49-claw-hand-biomechanics-and-surgical-management.mp3" length="8663215" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-49</guid><pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate><itunes:duration>0:28:53</itunes:duration></item>
+<item><title>Infection · Diagnosing and Treating Pyogenic Flexor Tenosynovitis</title><itunes:season>4</itunes:season><itunes:episode>11</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 4 – Tendons, nerves &amp; other. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/hand/hand-27-diagnosing-and-treating-pyogenic-flexor-tenosynovitis.mp3" length="10790757" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-hand-27</guid><pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>0:35:58</itunes:duration></item>
 </channel></rss>
