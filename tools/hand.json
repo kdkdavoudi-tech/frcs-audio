@@ -1,0 +1,592 @@
+[
+{
+"n": 1,
+"title": "Elbow (Millers)",
+"file": "hand-01-elbow-millers.mp3",
+"src": "01-19 Elbow (Millers).mp3",
+"dur": 1778,
+"bytes": 8890741,
+"notes": [
+"distal-humerus-fractures",
+"elbow-dislocation-instability",
+"radial-head-neck-fractures",
+"olecranon-fractures"
+]
+},
+{
+"n": 2,
+"title": "Congenital Hand Differences (Millers)",
+"file": "hand-02-congenital-hand-differences-millers.mp3",
+"src": "02-18 Congenital Hand Differences (Millers).mp3",
+"dur": 2952,
+"bytes": 14761892,
+"notes": [
+"congenital-hand"
+]
+},
+{
+"n": 3,
+"title": "Injection Injury (Millers)",
+"file": "hand-03-injection-injury-millers.mp3",
+"src": "03-17 Injection Injury (Millers).mp3",
+"dur": 2413,
+"bytes": 12067623,
+"notes": [
+"hand-infections"
+]
+},
+{
+"n": 4,
+"title": "Hand Infections (Millers)",
+"file": "hand-04-hand-infections-millers.mp3",
+"src": "04-16 Hand Infections (Millers).mp3",
+"dur": 2986,
+"bytes": 14928815,
+"notes": [
+"hand-infections"
+]
+},
+{
+"n": 5,
+"title": "Hand Tumours (Millers)",
+"file": "hand-05-hand-tumours-millers.mp3",
+"src": "05-15 Hand Tumors (Millers).mp3",
+"dur": 1453,
+"bytes": 7264357,
+"notes": [
+"hand-wrist-tumours"
+]
+},
+{
+"n": 6,
+"title": "Dupuytren Disease (Millers)",
+"file": "hand-06-dupuytren-disease-millers.mp3",
+"src": "06-14 Dupuytren Disease (Millers).mp3",
+"dur": 2634,
+"bytes": 13168292,
+"notes": [
+"dupuytrens-disease"
+]
+},
+{
+"n": 7,
+"title": "Arthritis (Millers)",
+"file": "hand-07-arthritis-millers.mp3",
+"src": "07-12 Arthritis (Millers).mp3",
+"dur": 3636,
+"bytes": 18180145,
+"notes": [
+"small-joint-arthritis",
+"base-of-thumb-arthritis",
+"rheumatoid-hand-wrist",
+"slac-snac"
+]
+},
+{
+"n": 8,
+"title": "Idiopathic Osteonecrosis of the Carpus (Millers)",
+"file": "hand-08-idiopathic-osteonecrosis-of-the-carpus-millers.mp3",
+"src": "08-13 Idiopathic Osteonecrosis of the Carpus (Millers).mp3",
+"dur": 2019,
+"bytes": 10096292,
+"notes": [
+"kienbocks-disease"
+]
+},
+{
+"n": 9,
+"title": "Nerve Injuries and Tendon Transfers (Millers)",
+"file": "hand-09-nerve-injuries-and-tendon-transfers-millers.mp3",
+"src": "09-11 Nerve Injuries and Tendon Transfers (Millers).mp3",
+"dur": 3588,
+"bytes": 17941386,
+"notes": [
+"upper-limb-nerve-injury",
+"tendon-transfers",
+"digital-nerve-injury"
+]
+},
+{
+"n": 10,
+"title": "Compression Neuropathy (Millers)",
+"file": "hand-10-compression-neuropathy-millers.mp3",
+"src": "10-10 Compression Neuropathy (Millers).mp3",
+"dur": 3173,
+"bytes": 15865566,
+"notes": [
+"upper-limb-nerve-injury"
+]
+},
+{
+"n": 11,
+"title": "Vascular Disorders (Millers)",
+"file": "hand-11-vascular-disorders-millers.mp3",
+"src": "11-9 Vascular Disorders (Millers).mp3",
+"dur": 3718,
+"bytes": 18588309,
+"notes": [
+"vascular-hand"
+]
+},
+{
+"n": 12,
+"title": "Soft Tissue Coverage and Microsurgery (Millers)",
+"file": "hand-12-soft-tissue-coverage-and-microsurgery-millers.mp3",
+"src": "12-8 Soft Tissue Coverage and Microsurgery (Millers).mp3",
+"dur": 3100,
+"bytes": 15502594,
+"notes": [
+"fingertip-injuries",
+"replantation-mangled-hand"
+]
+},
+{
+"n": 13,
+"title": "Nail and Fingertip Injuries (Millers)",
+"file": "hand-13-nail-and-fingertip-injuries-millers.mp3",
+"src": "13-7 Nail and Fingertip Injuries (Millers).mp3",
+"dur": 949,
+"bytes": 4747721,
+"notes": [
+"fingertip-injuries"
+]
+},
+{
+"n": 14,
+"title": "Distal Radioulnar Joint, TFCC, and Wrist Arthroscopy (Millers)",
+"file": "hand-14-distal-radioulnar-joint-tfcc-and-wrist-arthroscopy-millers.mp3",
+"src": "14-6 Distal Radioulnar Joint, TFCC, and Wrist Arthroscopy.mp3",
+"dur": 2660,
+"bytes": 13302170,
+"notes": [
+"druj-ulnar-wrist-pain"
+]
+},
+{
+"n": 15,
+"title": "Tendon Injuries and Overuse Syndromes (Millers)",
+"file": "hand-15-tendon-injuries-and-overuse-syndromes-millers.mp3",
+"src": "15-5 Tendon Injuries and Overuse Syndromes.mp3",
+"dur": 4302,
+"bytes": 21509974,
+"notes": [
+"flexor-tendon-injuries",
+"extensor-tendon-injuries",
+"tendinopathies-hand-wrist"
+]
+},
+{
+"n": 16,
+"title": "Carpal Fractures and Instability (Millers)",
+"file": "hand-16-carpal-fractures-and-instability-millers.mp3",
+"src": "16-3 Carpal Fractures and Instability.mp3",
+"dur": 3698,
+"bytes": 18491002,
+"notes": [
+"acute-scaphoid-fractures",
+"carpal-instability",
+"perilunate-injuries",
+"acute-sl-lt-injury"
+]
+},
+{
+"n": 17,
+"title": "Metacarpal and Phalangeal Injuries (Millers)",
+"file": "hand-17-metacarpal-and-phalangeal-injuries-millers.mp3",
+"src": "17-4. Metacarpal and Phalangeal injuries.mp3",
+"dur": 4153,
+"bytes": 20764700,
+"notes": [
+"metacarpal-phalangeal-fractures"
+]
+},
+{
+"n": 18,
+"title": "Distal Radius Fractures (Millers)",
+"file": "hand-18-distal-radius-fractures-millers.mp3",
+"src": "18-2. Distal Radius Fractures (Millers).mp3",
+"dur": 1667,
+"bytes": 8335378,
+"notes": [
+"distal-radius-fractures"
+]
+},
+{
+"n": 19,
+"title": "Anatomy (Millers)",
+"file": "hand-19-anatomy-millers.mp3",
+"src": "19-1. Anatomy (Millers).mp3",
+"dur": 2807,
+"bytes": 14035557,
+"notes": [
+"forearm-wrist-approaches",
+"hand-examination"
+]
+},
+{
+"n": 20,
+"title": "Thumb UCL Injuries and Stener Lesions",
+"file": "hand-20-thumb-ucl-injuries-and-stener-lesions.mp3",
+"src": "20-Thumb UCL Injuries and Stener Lesions.mp3",
+"dur": 1718,
+"bytes": 8588243,
+"notes": [
+"thumb-injuries"
+]
+},
+{
+"n": 21,
+"title": "SLAC and SNAC Wrist Surgical Algorithms",
+"file": "hand-21-slac-and-snac-wrist-surgical-algorithms.mp3",
+"src": "21-SLAC and SNAC Wrist Surgical Algorithms.mp3",
+"dur": 1797,
+"bytes": 8984782,
+"notes": [
+"slac-snac"
+]
+},
+{
+"n": 22,
+"title": "Scaphoid Nonunion Surgery and Vascular Grafts",
+"file": "hand-22-scaphoid-nonunion-surgery-and-vascular-grafts.mp3",
+"src": "22-Scaphoid Nonunion Surgery and Vascular Grafts.mp3",
+"dur": 2180,
+"bytes": 10899427,
+"notes": [
+"scaphoid-non-union"
+]
+},
+{
+"n": 23,
+"title": "Swan Neck Deformity Biomechanics and Reconstruction",
+"file": "hand-23-swan-neck-deformity-biomechanics-and-reconstruction.mp3",
+"src": "23-Swan Neck Deformity Biomechanics and Reconstruction.mp3",
+"dur": 1711,
+"bytes": 8556113,
+"notes": [
+"finger-joint-injuries",
+"rheumatoid-hand-wrist",
+"extensor-tendon-injuries"
+]
+},
+{
+"n": 24,
+"title": "SLAC Wrist Classification and Surgical Management",
+"file": "hand-24-slac-wrist-classification-and-surgical-management.mp3",
+"src": "24-SLAC Wrist Classification and Surgical Management.mp3",
+"dur": 1895,
+"bytes": 9477190,
+"notes": [
+"slac-snac"
+]
+},
+{
+"n": 25,
+"title": "SNAC Wrist Mechanics and Surgical Salvage",
+"file": "hand-25-snac-wrist-mechanics-and-surgical-salvage.mp3",
+"src": "25-SNAC Wrist Mechanics and Surgical Salvage.mp3",
+"dur": 1892,
+"bytes": 9457860,
+"notes": [
+"slac-snac",
+"scaphoid-non-union"
+]
+},
+{
+"n": 26,
+"title": "Seymour Fractures Are Disguised Open Injuries",
+"file": "hand-26-seymour-fractures-are-disguised-open-injuries.mp3",
+"src": "26-Seymour Fractures Are Disguised Open Injuries.mp3",
+"dur": 1697,
+"bytes": 8484145,
+"notes": [
+"fingertip-injuries"
+]
+},
+{
+"n": 27,
+"title": "Diagnosing and Treating Pyogenic Flexor Tenosynovitis",
+"file": "hand-27-diagnosing-and-treating-pyogenic-flexor-tenosynovitis.mp3",
+"src": "27-Diagnosing and Treating Pyogenic Flexor Tenosynovitis.mp3",
+"dur": 2158,
+"bytes": 10790757,
+"notes": [
+"hand-infections"
+]
+},
+{
+"n": 28,
+"title": "The Wrist's Overlooked Pisiform Fracture",
+"file": "hand-28-the-wrists-overlooked-pisiform-fracture.mp3",
+"src": "28-The Wrist's Overlooked Pisiform Fracture.mp3",
+"dur": 1903,
+"bytes": 9517419,
+"notes": [
+"acute-scaphoid-fractures"
+]
+},
+{
+"n": 29,
+"title": "Scapholunate Ligament Tears and DISI Deformity",
+"file": "hand-29-scapholunate-ligament-tears-and-disi-deformity.mp3",
+"src": "29-Scapholunate Ligament Tears and DISI Deformity.mp3",
+"dur": 1860,
+"bytes": 9298382,
+"notes": [
+"carpal-instability",
+"acute-sl-lt-injury"
+]
+},
+{
+"n": 30,
+"title": "Scaphoid Fracture Vascularity and Surgical Approaches",
+"file": "hand-30-scaphoid-fracture-vascularity-and-surgical-approaches.mp3",
+"src": "30-Scaphoid Fracture Vascularity and Surgical Approaches.mp3",
+"dur": 1911,
+"bytes": 9553598,
+"notes": [
+"acute-scaphoid-fractures"
+]
+},
+{
+"n": 31,
+"title": "Preventing and Treating the Quadriga Effect",
+"file": "hand-31-preventing-and-treating-the-quadriga-effect.mp3",
+"src": "31-Preventing and Treating the Quadriga Effect.mp3",
+"dur": 1758,
+"bytes": 8792521,
+"notes": [
+"flexor-tendon-injuries",
+"hand-amputation"
+]
+},
+{
+"n": 32,
+"title": "Radiocarpal Fracture Dislocations and the Dumontier Paradox",
+"file": "hand-32-radiocarpal-fracture-dislocations-and-the-dumontier-paradox.mp3",
+"src": "32-Radiocarpal Fracture Dislocations and the Dumontier Paradox.mp3",
+"dur": 1265,
+"bytes": 6326300,
+"notes": [
+"perilunate-injuries",
+"distal-radius-fractures"
+]
+},
+{
+"n": 33,
+"title": "The Thumb CMC Dislocation Exam Trap",
+"file": "hand-33-the-thumb-cmc-dislocation-exam-trap.mp3",
+"src": "33-The Thumb CMC Dislocation Exam Trap.mp3",
+"dur": 1518,
+"bytes": 7592455,
+"notes": [
+"thumb-injuries"
+]
+},
+{
+"n": 34,
+"title": "Sagittal Band Rupture and Boxer's Knuckle",
+"file": "hand-34-sagittal-band-rupture-and-boxers-knuckle.mp3",
+"src": "34-Sagittal Band Rupture and Boxer's Knuckle.mp3",
+"dur": 1801,
+"bytes": 9003721,
+"notes": [
+"extensor-tendon-injuries"
+]
+},
+{
+"n": 35,
+"title": "Snapping ECU Diagnosis and Subsheath Repair",
+"file": "hand-35-snapping-ecu-diagnosis-and-subsheath-repair.mp3",
+"src": "35-Snapping ECU Diagnosis and Subsheath Repair.mp3",
+"dur": 840,
+"bytes": 4202415,
+"notes": [
+"druj-ulnar-wrist-pain",
+"tendinopathies-hand-wrist"
+]
+},
+{
+"n": 36,
+"title": "Avoiding Surgical Disasters in Trigger Finger",
+"file": "hand-36-avoiding-surgical-disasters-in-trigger-finger.mp3",
+"src": "36-Avoiding Surgical Disasters in Trigger Finger.mp3",
+"dur": 917,
+"bytes": 4585500,
+"notes": [
+"tendinopathies-hand-wrist"
+]
+},
+{
+"n": 37,
+"title": "Upper Extremity Nerve Injury and Reconstruction",
+"file": "hand-37-upper-extremity-nerve-injury-and-reconstruction.mp3",
+"src": "37-Upper Extremity Nerve Injury and Reconstruction.mp3",
+"dur": 2003,
+"bytes": 10016880,
+"notes": [
+"upper-limb-nerve-injury",
+"brachial-plexus"
+]
+},
+{
+"n": 38,
+"title": "Physics and Pitfalls of Phalanx Fractures",
+"file": "hand-38-physics-and-pitfalls-of-phalanx-fractures.mp3",
+"src": "38-Physics and Pitfalls of Phalanx Fractures.mp3",
+"dur": 1915,
+"bytes": 9573582,
+"notes": [
+"metacarpal-phalangeal-fractures"
+]
+},
+{
+"n": 39,
+"title": "MCP Joint Arthritis Diagnosis and Surgical Management",
+"file": "hand-39-mcp-joint-arthritis-diagnosis-and-surgical-management.mp3",
+"src": "39-MCP Joint Arthritis Diagnosis and Surgical Management.mp3",
+"dur": 1781,
+"bytes": 8905631,
+"notes": [
+"small-joint-arthritis",
+"rheumatoid-hand-wrist"
+]
+},
+{
+"n": 40,
+"title": "Lumbrical Plus Mechanics and Surgical Traps",
+"file": "hand-40-lumbrical-plus-mechanics-and-surgical-traps.mp3",
+"src": "40-Lumbrical Plus Mechanics and Surgical Traps.mp3",
+"dur": 1636,
+"bytes": 8179557,
+"notes": [
+"flexor-tendon-injuries",
+"hand-amputation"
+]
+},
+{
+"n": 41,
+"title": "Managing PIP and DIP Dislocations",
+"file": "hand-41-managing-pip-and-dip-dislocations.mp3",
+"src": "41-Managing PIP and DIP Dislocations.mp3",
+"dur": 1689,
+"bytes": 8444178,
+"notes": [
+"finger-joint-injuries"
+]
+},
+{
+"n": 42,
+"title": "The Silent Saboteur PIN Compression Syndrome",
+"file": "hand-42-the-silent-saboteur-pin-compression-syndrome.mp3",
+"src": "42-The Silent Saboteur PIN Compression Syndrome.mp3",
+"dur": 1644,
+"bytes": 8218611,
+"notes": [
+"upper-limb-nerve-injury"
+]
+},
+{
+"n": 43,
+"title": "Metacarpal Fractures and Pillars of Stability",
+"file": "hand-43-metacarpal-fractures-and-pillars-of-stability.mp3",
+"src": "43-Metacarpal Fractures and Pillars of Stability.mp3",
+"dur": 1725,
+"bytes": 8624031,
+"notes": [
+"metacarpal-phalangeal-fractures"
+]
+},
+{
+"n": 44,
+"title": "Jersey Finger Diagnosis and Surgical Management",
+"file": "hand-44-jersey-finger-diagnosis-and-surgical-management.mp3",
+"src": "44-Jersey Finger Diagnosis and Surgical Management.mp3",
+"dur": 1807,
+"bytes": 9035982,
+"notes": [
+"flexor-tendon-injuries"
+]
+},
+{
+"n": 45,
+"title": "Intrinsic Plus Hand Diagnosis and Surgery",
+"file": "hand-45-intrinsic-plus-hand-diagnosis-and-surgery.mp3",
+"src": "45-Intrinsic Plus Hand Diagnosis and Surgery.mp3",
+"dur": 1976,
+"bytes": 9882611,
+"notes": [
+"rheumatoid-hand-wrist",
+"hand-examination"
+]
+},
+{
+"n": 46,
+"title": "Intersection Syndrome and the Forearm Traffic Jam",
+"file": "hand-46-intersection-syndrome-and-the-forearm-traffic-jam.mp3",
+"src": "46-Intersection Syndrome and the Forearm Traffic Jam.mp3",
+"dur": 1848,
+"bytes": 9241957,
+"notes": [
+"tendinopathies-hand-wrist"
+]
+},
+{
+"n": 47,
+"title": "Staging and Treating Kienbock's Lunate Collapse",
+"file": "hand-47-staging-and-treating-kienbocks-lunate-collapse.mp3",
+"src": "47-Staging and Treating Kienbock's Lunate Collapse.mp3",
+"dur": 1646,
+"bytes": 8228406,
+"notes": [
+"kienbocks-disease"
+]
+},
+{
+"n": 48,
+"title": "Mallet Finger Treatment and Biomechanical Pitfalls",
+"file": "hand-48-mallet-finger-treatment-and-biomechanical-pitfalls.mp3",
+"src": "48-Mallet Finger Treatment and Biomechanical Pitfalls.mp3",
+"dur": 1633,
+"bytes": 8164276,
+"notes": [
+"extensor-tendon-injuries"
+]
+},
+{
+"n": 49,
+"title": "Claw Hand Biomechanics and Surgical Management",
+"file": "hand-49-claw-hand-biomechanics-and-surgical-management.mp3",
+"src": "49-Claw Hand Biomechanics and Surgical Management.mp3",
+"dur": 1733,
+"bytes": 8663215,
+"notes": [
+"upper-limb-nerve-injury",
+"tendon-transfers"
+]
+},
+{
+"n": 50,
+"title": "Why Traction Tightens the MCP Noose",
+"file": "hand-50-why-traction-tightens-the-mcp-noose.mp3",
+"src": "50-Why Traction Tightens the MCP Noose.mp3",
+"dur": 1501,
+"bytes": 7504815,
+"notes": [
+"finger-joint-injuries",
+"metacarpal-phalangeal-fractures"
+]
+},
+{
+"n": 51,
+"title": "Lunotriquetral Ligament Injury and VISI",
+"file": "hand-51-lunotriquetral-ligament-injury-and-visi.mp3",
+"src": "51-Lunotriquetral Ligament Injury and VISI.mp3",
+"dur": 1813,
+"bytes": 9067068,
+"notes": [
+"carpal-instability",
+"acute-sl-lt-injury"
+]
+}
+]
