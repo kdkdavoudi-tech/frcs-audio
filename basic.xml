@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel><title>FRCS Orth: Basic Science</title><link>https://frcs-revision.vercel.app/</link><language>en-gb</language>
+<atom:link href="https://kdkdavoudi-tech.github.io/frcs-audio/basic.xml" rel="self" type="application/rss+xml"/>
+<description>Private FRCS Orth revision audio: basic science. Season 1 Tissue biology, 2 Biomechanics and biomaterials, 3 Clinical sciences.</description>
+<itunes:author>Kav Davoudi</itunes:author><itunes:image href="https://kdkdavoudi-tech.github.io/frcs-audio/basic-cover.jpg"/><itunes:category text="Education"/><itunes:explicit>false</itunes:explicit>
+<itunes:type>serial</itunes:type><itunes:block>Yes</itunes:block>
+<item><title>Biology · Basics of Bone</title><itunes:season>1</itunes:season><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Tissue biology. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-13-basics-of-bone.mp3" length="10688488" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-13</guid><pubDate>Tue, 01 Sep 2026 07:00:00 +0000</pubDate><itunes:duration>0:44:32</itunes:duration></item>
+<item><title>Biology · Bone Injury, Healing and Grafting</title><itunes:season>1</itunes:season><itunes:episode>2</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Tissue biology. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-14-bone-injury-healing-and-grafting.mp3" length="13143267" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-14</guid><pubDate>Tue, 01 Sep 2026 08:00:00 +0000</pubDate><itunes:duration>0:54:46</itunes:duration></item>
+<item><title>Biology · Articular Cartilage</title><itunes:season>1</itunes:season><itunes:episode>3</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Tissue biology. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-10-articular-cartilage.mp3" length="12482787" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-10</guid><pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>0:52:01</itunes:duration></item>
+<item><title>Biology · Meniscus</title><itunes:season>1</itunes:season><itunes:episode>4</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Tissue biology. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-09-meniscus.mp3" length="12039541" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-09</guid><pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate><itunes:duration>0:50:10</itunes:duration></item>
+<item><title>Biology · Ligament and Tendon</title><itunes:season>1</itunes:season><itunes:episode>5</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Tissue biology. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-08-ligament-and-tendon.mp3" length="11429425" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-08</guid><pubDate>Tue, 01 Sep 2026 11:00:00 +0000</pubDate><itunes:duration>0:47:37</itunes:duration></item>
+<item><title>Biology · Skeletal Muscle</title><itunes:season>1</itunes:season><itunes:episode>6</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Tissue biology. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-12-skeletal-muscle.mp3" length="13969572" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-12</guid><pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate><itunes:duration>0:58:12</itunes:duration></item>
+<item><title>Biology · Nerve</title><itunes:season>1</itunes:season><itunes:episode>7</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Tissue biology. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-11-nerve.mp3" length="12964380" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-11</guid><pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate><itunes:duration>0:54:01</itunes:duration></item>
+<item><title>Biology · Intervertebral Disc</title><itunes:season>1</itunes:season><itunes:episode>8</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 1 – Tissue biology. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-15-intervertebral-disc.mp3" length="14265383" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-15</guid><pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate><itunes:duration>0:59:26</itunes:duration></item>
+<item><title>Biomechanics · Basic Concepts in Biomechanics</title><itunes:season>2</itunes:season><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Biomechanics &amp; biomaterials. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-16-basic-concepts-in-biomechanics.mp3" length="10072834" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-16</guid><pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate><itunes:duration>0:41:58</itunes:duration></item>
+<item><title>Biomechanics · Biomaterial Behaviour</title><itunes:season>2</itunes:season><itunes:episode>2</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Biomechanics &amp; biomaterials. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-17-biomaterial-behaviour.mp3" length="7449200" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-17</guid><pubDate>Tue, 01 Sep 2026 16:00:00 +0000</pubDate><itunes:duration>0:31:02</itunes:duration></item>
+<item><title>Biomechanics · Biomaterials</title><itunes:season>2</itunes:season><itunes:episode>3</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Biomechanics &amp; biomaterials. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-18-biomaterials.mp3" length="15170265" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-18</guid><pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate><itunes:duration>1:03:13</itunes:duration></item>
+<item><title>Biomechanics · Friction, Lubrication, Corrosion</title><itunes:season>2</itunes:season><itunes:episode>4</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Biomechanics &amp; biomaterials. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-25-friction-lubrication-corrosion.mp3" length="13449527" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-25</guid><pubDate>Tue, 01 Sep 2026 18:00:00 +0000</pubDate><itunes:duration>0:56:02</itunes:duration></item>
+<item><title>Biomechanics · Fracture Fixation</title><itunes:season>2</itunes:season><itunes:episode>5</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Biomechanics &amp; biomaterials. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-31-fracture-fixation.mp3" length="7392044" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-31</guid><pubDate>Tue, 01 Sep 2026 19:00:00 +0000</pubDate><itunes:duration>0:30:48</itunes:duration></item>
+<item><title>Biomechanics · OA Biomechanics</title><itunes:season>2</itunes:season><itunes:episode>6</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Biomechanics &amp; biomaterials. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-30-oa-biomechanics.mp3" length="11937141" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-30</guid><pubDate>Tue, 01 Sep 2026 20:00:00 +0000</pubDate><itunes:duration>0:49:44</itunes:duration></item>
+<item><title>Biomechanics · Hip Biomechanics</title><itunes:season>2</itunes:season><itunes:episode>7</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Biomechanics &amp; biomaterials. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-19-hip-biomechanics.mp3" length="6098147" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-19</guid><pubDate>Tue, 01 Sep 2026 21:00:00 +0000</pubDate><itunes:duration>0:25:24</itunes:duration></item>
+<item><title>Biomechanics · Knee Biomechanics</title><itunes:season>2</itunes:season><itunes:episode>8</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Biomechanics &amp; biomaterials. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-20-knee-biomechanics.mp3" length="8137056" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-20</guid><pubDate>Tue, 01 Sep 2026 22:00:00 +0000</pubDate><itunes:duration>0:33:54</itunes:duration></item>
+<item><title>Biomechanics · Shoulder Biomechanics</title><itunes:season>2</itunes:season><itunes:episode>9</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Biomechanics &amp; biomaterials. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-22-shoulder-biomechanics.mp3" length="13062601" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-22</guid><pubDate>Tue, 01 Sep 2026 23:00:00 +0000</pubDate><itunes:duration>0:54:26</itunes:duration></item>
+<item><title>Biomechanics · Spine Biomechanics</title><itunes:season>2</itunes:season><itunes:episode>10</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Biomechanics &amp; biomaterials. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-21-spine-biomechanics.mp3" length="8175195" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-21</guid><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><itunes:duration>0:34:04</itunes:duration></item>
+<item><title>Biomechanics · Hand Biomechanics</title><itunes:season>2</itunes:season><itunes:episode>11</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Biomechanics &amp; biomaterials. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-23-hand-biomechanics.mp3" length="7634043" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-23</guid><pubDate>Wed, 02 Sep 2026 01:00:00 +0000</pubDate><itunes:duration>0:31:48</itunes:duration></item>
+<item><title>Biomechanics · Foot Biomechanics</title><itunes:season>2</itunes:season><itunes:episode>12</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Biomechanics &amp; biomaterials. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-24-foot-biomechanics.mp3" length="9878692" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-24</guid><pubDate>Wed, 02 Sep 2026 02:00:00 +0000</pubDate><itunes:duration>0:41:10</itunes:duration></item>
+<item><title>Biomechanics · Gait</title><itunes:season>2</itunes:season><itunes:episode>13</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 2 – Biomechanics &amp; biomaterials. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-26-gait.mp3" length="12299512" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-26</guid><pubDate>Wed, 02 Sep 2026 03:00:00 +0000</pubDate><itunes:duration>0:51:15</itunes:duration></item>
+<item><title>Clinical · Genetics</title><itunes:season>3</itunes:season><itunes:episode>1</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Clinical sciences. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-02-genetics.mp3" length="17838411" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-02</guid><pubDate>Wed, 02 Sep 2026 04:00:00 +0000</pubDate><itunes:duration>1:14:20</itunes:duration></item>
+<item><title>Clinical · Embryology</title><itunes:season>3</itunes:season><itunes:episode>2</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Clinical sciences. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-03-embryology.mp3" length="13686614" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-03</guid><pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate><itunes:duration>0:57:02</itunes:duration></item>
+<item><title>Clinical · Pharmacology</title><itunes:season>3</itunes:season><itunes:episode>3</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Clinical sciences. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-04-pharmacology.mp3" length="11786467" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-04</guid><pubDate>Wed, 02 Sep 2026 06:00:00 +0000</pubDate><itunes:duration>0:49:07</itunes:duration></item>
+<item><title>Clinical · Inflammation and Infection</title><itunes:season>3</itunes:season><itunes:episode>4</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Clinical sciences. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-05-inflammation-and-infection.mp3" length="10175234" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-05</guid><pubDate>Wed, 02 Sep 2026 07:00:00 +0000</pubDate><itunes:duration>0:42:24</itunes:duration></item>
+<item><title>Clinical · Oncology</title><itunes:season>3</itunes:season><itunes:episode>5</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Clinical sciences. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-07-oncology.mp3" length="15467747" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-07</guid><pubDate>Wed, 02 Sep 2026 08:00:00 +0000</pubDate><itunes:duration>1:04:27</itunes:duration></item>
+<item><title>Clinical · Imaging</title><itunes:season>3</itunes:season><itunes:episode>6</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Clinical sciences. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-06-imaging.mp3" length="16386421" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-06</guid><pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate><itunes:duration>1:08:17</itunes:duration></item>
+<item><title>Clinical · Theatre</title><itunes:season>3</itunes:season><itunes:episode>7</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Clinical sciences. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-29-theatre.mp3" length="13198647" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-29</guid><pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate><itunes:duration>0:55:00</itunes:duration></item>
+<item><title>Clinical · Orthotics</title><itunes:season>3</itunes:season><itunes:episode>8</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Clinical sciences. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-28-orthotics.mp3" length="11859714" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-28</guid><pubDate>Wed, 02 Sep 2026 11:00:00 +0000</pubDate><itunes:duration>0:49:25</itunes:duration></item>
+<item><title>Clinical · Prosthetics</title><itunes:season>3</itunes:season><itunes:episode>9</itunes:episode><itunes:episodeType>full</itunes:episodeType>
+<description>Season 3 – Clinical sciences. NotebookLM audio overview</description><enclosure url="https://kdkdavoudi-tech.github.io/frcs-audio/basic/basic-27-prosthetics.mp3" length="8902026" type="audio/mpeg"/>
+<guid isPermaLink="false">frcs-basic-27</guid><pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate><itunes:duration>0:37:05</itunes:duration></item>
+</channel></rss>

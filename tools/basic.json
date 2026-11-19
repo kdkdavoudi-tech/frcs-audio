@@ -1,0 +1,212 @@
+[
+{
+"ch": 31,
+"title": "Fracture Fixation",
+"file": "basic-31-fracture-fixation.mp3",
+"bytes": 7392044,
+"dur": 1848
+},
+{
+"ch": 30,
+"title": "OA Biomechanics",
+"file": "basic-30-oa-biomechanics.mp3",
+"bytes": 11937141,
+"dur": 2984
+},
+{
+"ch": 29,
+"title": "Theatre",
+"file": "basic-29-theatre.mp3",
+"bytes": 13198647,
+"dur": 3300
+},
+{
+"ch": 28,
+"title": "Orthotics",
+"file": "basic-28-orthotics.mp3",
+"bytes": 11859714,
+"dur": 2965
+},
+{
+"ch": 27,
+"title": "Prosthetics",
+"file": "basic-27-prosthetics.mp3",
+"bytes": 8902026,
+"dur": 2225
+},
+{
+"ch": 26,
+"title": "Gait",
+"file": "basic-26-gait.mp3",
+"bytes": 12299512,
+"dur": 3075
+},
+{
+"ch": 25,
+"title": "Friction, Lubrication, Corrosion",
+"file": "basic-25-friction-lubrication-corrosion.mp3",
+"bytes": 13449527,
+"dur": 3362
+},
+{
+"ch": 24,
+"title": "Foot Biomechanics",
+"file": "basic-24-foot-biomechanics.mp3",
+"bytes": 9878692,
+"dur": 2470
+},
+{
+"ch": 23,
+"title": "Hand Biomechanics",
+"file": "basic-23-hand-biomechanics.mp3",
+"bytes": 7634043,
+"dur": 1908
+},
+{
+"ch": 22,
+"title": "Shoulder Biomechanics",
+"file": "basic-22-shoulder-biomechanics.mp3",
+"bytes": 13062601,
+"dur": 3266
+},
+{
+"ch": 21,
+"title": "Spine Biomechanics",
+"file": "basic-21-spine-biomechanics.mp3",
+"bytes": 8175195,
+"dur": 2044
+},
+{
+"ch": 20,
+"title": "Knee Biomechanics",
+"file": "basic-20-knee-biomechanics.mp3",
+"bytes": 8137056,
+"dur": 2034
+},
+{
+"ch": 19,
+"title": "Hip Biomechanics",
+"file": "basic-19-hip-biomechanics.mp3",
+"bytes": 6098147,
+"dur": 1524
+},
+{
+"ch": 18,
+"title": "Biomaterials",
+"file": "basic-18-biomaterials.mp3",
+"bytes": 15170265,
+"dur": 3793
+},
+{
+"ch": 17,
+"title": "Biomaterial Behaviour",
+"file": "basic-17-biomaterial-behaviour.mp3",
+"bytes": 7449200,
+"dur": 1862
+},
+{
+"ch": 16,
+"title": "Basic Concepts in Biomechanics",
+"file": "basic-16-basic-concepts-in-biomechanics.mp3",
+"bytes": 10072834,
+"dur": 2518
+},
+{
+"ch": 15,
+"title": "Intervertebral Disc",
+"file": "basic-15-intervertebral-disc.mp3",
+"bytes": 14265383,
+"dur": 3566
+},
+{
+"ch": 14,
+"title": "Bone Injury, Healing and Grafting",
+"file": "basic-14-bone-injury-healing-and-grafting.mp3",
+"bytes": 13143267,
+"dur": 3286
+},
+{
+"ch": 13,
+"title": "Basics of Bone",
+"file": "basic-13-basics-of-bone.mp3",
+"bytes": 10688488,
+"dur": 2672
+},
+{
+"ch": 12,
+"title": "Skeletal Muscle",
+"file": "basic-12-skeletal-muscle.mp3",
+"bytes": 13969572,
+"dur": 3492
+},
+{
+"ch": 11,
+"title": "Nerve",
+"file": "basic-11-nerve.mp3",
+"bytes": 12964380,
+"dur": 3241
+},
+{
+"ch": 10,
+"title": "Articular Cartilage",
+"file": "basic-10-articular-cartilage.mp3",
+"bytes": 12482787,
+"dur": 3121
+},
+{
+"ch": 9,
+"title": "Meniscus",
+"file": "basic-09-meniscus.mp3",
+"bytes": 12039541,
+"dur": 3010
+},
+{
+"ch": 8,
+"title": "Ligament and Tendon",
+"file": "basic-08-ligament-and-tendon.mp3",
+"bytes": 11429425,
+"dur": 2857
+},
+{
+"ch": 5,
+"title": "Inflammation and Infection",
+"file": "basic-05-inflammation-and-infection.mp3",
+"bytes": 10175234,
+"dur": 2544
+},
+{
+"ch": 4,
+"title": "Pharmacology",
+"file": "basic-04-pharmacology.mp3",
+"bytes": 11786467,
+"dur": 2947
+},
+{
+"ch": 2,
+"title": "Genetics",
+"file": "basic-02-genetics.mp3",
+"bytes": 17838411,
+"dur": 4460
+},
+{
+"ch": 3,
+"title": "Embryology",
+"file": "basic-03-embryology.mp3",
+"bytes": 13686614,
+"dur": 3422
+},
+{
+"ch": 7,
+"title": "Oncology",
+"file": "basic-07-oncology.mp3",
+"bytes": 15467747,
+"dur": 3867
+},
+{
+"ch": 6,
+"title": "Imaging",
+"file": "basic-06-imaging.mp3",
+"bytes": 16386421,
+"dur": 4097
+}
+]
